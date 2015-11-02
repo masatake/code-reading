@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="559.70721"
+   height="137.85435"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="runtime-overview.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient6627"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop6629" />
+    </linearGradient>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         id="path4121"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-5"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4121-8"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-0"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4121-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-3"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4121-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-3-4"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4121-7-5"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-3-1"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4121-7-1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-3-1-5"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4121-7-1-1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-3-1-5-6"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4121-7-1-1-8"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-3-1-5-4"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4121-7-1-1-4"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.9848553"
+     inkscape:cx="248.97519"
+     inkscape:cy="92.77108"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="1020"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="0,1"
+       position="138.94028,62.026909"
+       id="guide3054" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="73.812022,21.709418"
+       id="guide3056" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="73.812022,109.94902"
+       id="guide3071" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="レイヤー 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-35.380357,-209.70814)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2995"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:VL Gothic;-inkscape-font-specification:VL Gothic"><flowRegion
+         id="flowRegion2997"><rect
+           id="rect2999"
+           width="151.42857"
+           height="65.714287"
+           x="180"
+           y="472.36218"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:VL Gothic;-inkscape-font-specification:VL Gothic" /></flowRegion><flowPara
+         id="flowPara3001" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:VL Gothic;-inkscape-font-specification:VL Gothic"
+       x="104.58999"
+       y="27.73291"
+       id="text3016"
+       sodipodi:linespacing="125%"
+       transform="translate(26.26643,83.846765)"><tspan
+         sodipodi:role="line"
+         id="tspan3018"
+         x="104.58999"
+         y="27.73291" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:VL Gothic;-inkscape-font-specification:VL Gothic"
+       x="422.14484"
+       y="281.14734"
+       id="text3037-8-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="0"
+         y="0"
+         id="tspan3039-5-5"><tspan
+           x="422.14484"
+           y="281.14734"
+           style="line-height:125%;font-family:VL Gothic;-inkscape-font-specification:VL Gothic"
+           id="tspan3041-1-8" /></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:VL Gothic;-inkscape-font-specification:VL Gothic"
+       x="62.453014"
+       y="59.790051"
+       id="text3126"
+       sodipodi:linespacing="125%"
+       transform="translate(-30.341443,63.037552)"><tspan
+         sodipodi:role="line"
+         id="tspan3128"
+         x="62.453014"
+         y="59.790051" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:VL Gothic;-inkscape-font-specification:VL Gothic"
+       x="227.74751"
+       y="199.45976"
+       id="text3037-1-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="227.74751"
+         y="199.45976"
+         id="tspan3154-2"
+         style="text-align:center;text-anchor:middle" /></text>
+    <rect
+       style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4563"
+       width="381.49011"
+       height="30.850285"
+       x="73.059738"
+       y="316.2258" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:VL Gothic;-inkscape-font-specification:VL Gothic"
+       x="263.94879"
+       y="336.15695"
+       id="text3037-1-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="263.94879"
+         y="336.15695"
+         id="tspan3154-0"
+         style="text-align:center;text-anchor:middle">ハードウェア</tspan></text>
+    <rect
+       style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4563-3"
+       width="381.49011"
+       height="30.850285"
+       x="73.059738"
+       y="280.92981" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:VL Gothic;-inkscape-font-specification:VL Gothic"
+       x="263.62479"
+       y="300.86096"
+       id="text3037-1-4-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="263.62479"
+         y="300.86096"
+         id="tspan3154-0-2"
+         style="text-align:center;text-anchor:middle">linuxカーネル</tspan></text>
+    <rect
+       style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4563-3-7"
+       width="381.49011"
+       height="30.850285"
+       x="73.059738"
+       y="245.08076" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:VL Gothic;-inkscape-font-specification:VL Gothic"
+       x="264.69281"
+       y="265.01193"
+       id="text3037-1-4-4-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="264.69281"
+         y="265.01193"
+         id="tspan3154-0-2-4"
+         style="text-align:center;text-anchor:middle">glibc Cライブラリ</tspan></text>
+    <g
+       id="g4122"
+       transform="translate(0,-0.41510052)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3037-1-4-4-7-6"
+         y="230.84106"
+         x="108.66556"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:VL Gothic;-inkscape-font-specification:VL Gothic"
+         xml:space="preserve"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan3154-0-2-4-7"
+           y="230.84106"
+           x="108.66556"
+           sodipodi:role="line">プロセス1</tspan></text>
+      <rect
+         y="210.62793"
+         x="74.448517"
+         height="30.850285"
+         width="67.750076"
+         id="rect4563-3-7-4"
+         style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    </g>
+    <g
+       id="g4127"
+       transform="translate(-0.15234375,0.3396297)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3037-1-4-4-7-6-1"
+         y="230.08633"
+         x="179.97829"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:VL Gothic;-inkscape-font-specification:VL Gothic"
+         xml:space="preserve"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan3154-0-2-4-7-1"
+           y="230.08633"
+           x="179.97829"
+           sodipodi:role="line">プロセス2</tspan></text>
+      <rect
+         y="209.8732"
+         x="146.07326"
+         height="30.850285"
+         width="67.750076"
+         id="rect4563-3-7-4-1"
+         style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    </g>
+    <g
+       id="g4132"
+       transform="translate(-0.67996216,0.3396297)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3037-1-4-4-7-6-1-2"
+         y="230.08633"
+         x="251.97827"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:VL Gothic;-inkscape-font-specification:VL Gothic"
+         xml:space="preserve"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan3154-0-2-4-7-1-5"
+           y="230.08633"
+           x="251.97827"
+           sodipodi:role="line">プロセス3</tspan></text>
+      <rect
+         y="209.8732"
+         x="218.07326"
+         height="30.850285"
+         width="67.750076"
+         id="rect4563-3-7-4-1-8"
+         style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    </g>
+    <g
+       id="g4164">
+      <g
+         transform="translate(70.79245,0.30189429)"
+         id="g4132-3">
+        <text
+           xml:space="preserve"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:VL Gothic;-inkscape-font-specification:VL Gothic"
+           x="251.97827"
+           y="230.12408"
+           id="text3037-1-4-4-7-6-1-2-7"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="251.97827"
+             y="230.12408"
+             id="tspan3154-0-2-4-7-1-5-8"
+             style="text-align:center;text-anchor:middle">プロセス4</tspan></text>
+        <rect
+           style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4563-3-7-4-1-8-2"
+           width="67.750076"
+           height="30.850285"
+           x="218.07326"
+           y="209.91093" />
+      </g>
+    </g>
+    <g
+       id="g4197"
+       transform="translate(351.45543,36.620269)">
+      <path
+         transform="translate(-38.542273,51.542796)"
+         d="m 89.622643,139.15178 c 0,2.60512 -2.111864,4.71698 -4.71698,4.71698 -2.605117,0 -4.716981,-2.11186 -4.716981,-4.71698 0,-2.60512 2.111864,-4.71698 4.716981,-4.71698 2.605116,0 4.71698,2.11186 4.71698,4.71698 z"
+         sodipodi:ry="4.7169809"
+         sodipodi:rx="4.7169809"
+         sodipodi:cy="139.15178"
+         sodipodi:cx="84.905663"
+         id="path4170"
+         style="opacity:0.98999999;fill:#000000;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         d="m 89.622643,139.15178 c 0,2.60512 -2.111864,4.71698 -4.71698,4.71698 -2.605117,0 -4.716981,-2.11186 -4.716981,-4.71698 0,-2.60512 2.111864,-4.71698 4.716981,-4.71698 2.605116,0 4.71698,2.11186 4.71698,4.71698 z"
+         sodipodi:ry="4.7169809"
+         sodipodi:rx="4.7169809"
+         sodipodi:cy="139.15178"
+         sodipodi:cx="84.905663"
+         id="path4170-7"
+         style="opacity:0.98999999;fill:#000000;stroke:none"
+         sodipodi:type="arc"
+         transform="translate(-25.806424,51.542796)" />
+      <path
+         d="m 89.622643,139.15178 c 0,2.60512 -2.111864,4.71698 -4.71698,4.71698 -2.605117,0 -4.716981,-2.11186 -4.716981,-4.71698 0,-2.60512 2.111864,-4.71698 4.716981,-4.71698 2.605116,0 4.71698,2.11186 4.71698,4.71698 z"
+         sodipodi:ry="4.7169809"
+         sodipodi:rx="4.7169809"
+         sodipodi:cy="139.15178"
+         sodipodi:cx="84.905663"
+         id="path4170-5"
+         style="opacity:0.98999999;fill:#000000;stroke:none"
+         sodipodi:type="arc"
+         transform="translate(-13.070577,51.542796)" />
+    </g>
+    <path
+       sodipodi:type="star"
+       style="opacity:0.98999999;fill:#000000;fill-opacity:0.74117647;stroke:none"
+       id="path4278"
+       sodipodi:sides="3"
+       sodipodi:cx="-112.26415"
+       sodipodi:cy="31.250582"
+       sodipodi:r1="24.473816"
+       sodipodi:r2="12.236909"
+       sodipodi:arg1="1.0471976"
+       sodipodi:arg2="2.0943951"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m -100.02725,52.445529 -18.35536,-10.597473 -18.35536,-10.597475 18.35536,-10.597473 18.35537,-10.597472 0,21.194946 z"
+       transform="matrix(0.69162271,0,0,0.51038524,536.99939,261.80133)"
+       inkscape:transform-center-x="4.2316629" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:VL Gothic;-inkscape-font-specification:VL Gothic"
+       x="470.75555"
+       y="274.74194"
+       id="text3037-1-4-4-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="470.75555"
+         y="274.74194"
+         id="tspan3154-0-2-3"
+         style="text-align:start;text-anchor:start">straceを使うと</tspan><tspan
+         sodipodi:role="line"
+         x="470.75555"
+         y="289.74194"
+         style="text-align:start;text-anchor:start"
+         id="tspan4301">覗き見ることができる。</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:VL Gothic;-inkscape-font-specification:VL Gothic"
+       x="-68.849869"
+       y="-48.226376"
+       id="text4303"
+       sodipodi:linespacing="125%"
+       transform="translate(72.5625,209.70814)"><tspan
+         sodipodi:role="line"
+         id="tspan4305"
+         x="-68.849869"
+         y="-48.226376" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:VL Gothic;-inkscape-font-specification:VL Gothic"
+       x="67.420357"
+       y="257.71558"
+       id="text3037-1-4-4-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="67.420357"
+         y="257.71558"
+         id="tspan3154-0-2-8"
+         style="text-align:center;text-anchor:middle">system call</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-mid:none;marker-end:url(#Arrow1Lend-3-1-5-4)"
+       d="m 73.812022,27.905335 0,47.922111"
+       id="path3073"
+       inkscape:connector-curvature="0"
+       transform="translate(35.380357,209.70814)"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>

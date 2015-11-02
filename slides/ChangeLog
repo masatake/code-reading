@@ -1,0 +1,93 @@
+2015-10-16  Masatake YAMATO  <yamato@redhat.com>
+
+	* 05c.s/05c.rst: ビット演算を用いたフラッグ操作の&の使い方
+	について間違いを訂正。
+
+2013-09-25  Masatake YAMATO  <yamato@redhat.com>
+
+	* 04lab1-answer.s/04lab1-answer.rst: code-block: console
+	でマーキングした。
+
+2013-04-17  Masatake YAMATO  <yamato@redhat.com>
+
+	* 06tools.s/06tools.rst: nm, objdumpについて記載した。
+
+2013-04-17  Masatake YAMATO  <yamato@redhat.com>
+
+	* 06tools.s/06tools.rst(姑息な例2: 書式付き出力): Fix a typo.
+
+	* 06tools.s/06tools.rst: シェルセッションを全てcode-block: console
+	でマーキングした。
+
+2013-04-16  Masatake YAMATO  <yamato@redhat.com>
+
+	* 06tools.s/06tools.rst (タグジャンプ): タグジャンプについて説明した。
+
+	* 02target.s/02target.rst (Fedoraの開発プロジェクトのリポジトリからの入手):
+	yum/rpmbuildによるインストールを詳細に記述した。
+	(subversion(svn)によるチェックアウト): subversionの例を追加した。
+
+2013-04-16  Masatake YAMATO  <yamato@redhat.com>
+
+	* 12buildproc.s/12buildproc.rst (develパッケージの例): 整形済みブロック
+	  の記法に誤りがあったので修正した。
+
+	* 10reading.s/10reading.rst (「ある実行条件の元での実行結果と副作用」):
+	が->を。
+
+2013-01-29  Masatake YAMATO  <yamato@redhat.com>
+
+	* 21pattern-resource.s/21pattern-resource.rst (他の型の例(FILE)):
+	read -> fread.
+	(他の型の例(ソケット)): sendが重複して記載されていた。
+
+	* 00intro.s/00intro.rst: 3日間を通した課題をここに移動した。
+
+2013-01-28  Masatake YAMATO  <yamato@redhat.com>
+
+	* header.rst.in: Copyrightを記載した。
+
+2013-01-22  Masatake YAMATO  <yamato@redhat.com>
+
+	* 11beforereading.s/11beforereading.rst (ログ): リストの改行が
+	抜けていたので直した。
+
+	* 10reading.s/10reading.rst: リストの改行が
+	抜けていたので直した。
+
+	(データフロー追跡): 例の中でrに対する*が抜けていたので
+	追加した。
+
+2013-01-22  Masatake YAMATO  <yamato@redhat.com>
+
+	* 12buildproc.s/12buildproc.rst: 「はじめに」を
+	「アウトライン」に変更した。
+	(ビルドツール): makeについて記載した。
+	(ライブラリ): ライブラリについて記載た。
+
+2013-01-21  Masatake YAMATO  <yamato@redhat.com>
+
+	* 12buildproc.s/12buildproc.rst (マクロ定義): 例の空白
+	をつめて1ページに収まるようにした。
+	(ビルドツール): について記載した。
+
+2013-01-21  Masatake YAMATO  <yamato@redhat.com>
+
+	* 10reading.s, 11beforereading.s, 12buildproc.s, 13lab3.s
+	を追加した。
+
+2013-01-17  Masatake YAMATO  <yamato@redhat.com>
+
+	* lab1-body.rst (ソースパッケージより入手): buiyulddep => builddep.
+
+	* lab2-body.rst: 課題を分離した。
+
+	* slides/05c.s/05c.rst: ビット演算の説明中でリストの改行が
+	抜けていたので直した。
+
+	* lab1-body.rst: 重複したstrcmpの課題を削除した。
+
+	* slides/00intro.s/00intro.rst:  アジェンダを追加した。
+
+	* lab1-body.rst: インストール対象にwgetを追記した。
+

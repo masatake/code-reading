@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="645.62549"
+   height="323.11404"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="srcrepo.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient6627"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop6629" />
+    </linearGradient>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         id="path4121"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-5"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4121-8"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-0"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4121-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-3"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4121-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-3-4"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4121-7-5"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-3-1"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4121-7-1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-3-1-5"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4121-7-1-1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-3-1-5-6"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4121-7-1-1-8"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-3-1-5-4"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4121-7-1-1-4"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.06"
+     inkscape:cx="493.76846"
+     inkscape:cy="132.39973"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="743"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="レイヤー 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(72.542273,-36.448456)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2995"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:VL Gothic;-inkscape-font-specification:VL Gothic"><flowRegion
+         id="flowRegion2997"><rect
+           id="rect2999"
+           width="151.42857"
+           height="65.714287"
+           x="180"
+           y="472.36218"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:VL Gothic;-inkscape-font-specification:VL Gothic" /></flowRegion><flowPara
+         id="flowPara3001" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:VL Gothic;-inkscape-font-specification:VL Gothic"
+       x="104.58999"
+       y="27.73291"
+       id="text3016"
+       sodipodi:linespacing="125%"
+       transform="translate(26.26643,83.846765)"><tspan
+         sodipodi:role="line"
+         id="tspan3018"
+         x="104.58999"
+         y="27.73291" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:VL Gothic;-inkscape-font-specification:VL Gothic"
+       x="422.14484"
+       y="281.14734"
+       id="text3037-8-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="0"
+         y="0"
+         id="tspan3039-5-5"><tspan
+           x="422.14484"
+           y="281.14734"
+           style="line-height:125%;font-family:VL Gothic;-inkscape-font-specification:VL Gothic"
+           id="tspan3041-1-8" /></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:VL Gothic;-inkscape-font-specification:VL Gothic"
+       x="62.453014"
+       y="59.790051"
+       id="text3126"
+       sodipodi:linespacing="125%"
+       transform="translate(-30.341443,63.037552)"><tspan
+         sodipodi:role="line"
+         id="tspan3128"
+         x="62.453014"
+         y="59.790051" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:VL Gothic;-inkscape-font-specification:VL Gothic"
+       x="83.277901"
+       y="112.45293"
+       id="text3037-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="83.277901"
+         y="112.45293"
+         id="tspan3039-9"
+         style="text-align:center;text-anchor:middle">vcs</tspan><tspan
+         sodipodi:role="line"
+         x="83.277901"
+         y="127.45293"
+         id="tspan3154"
+         style="text-align:center;text-anchor:middle">リポジトリ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:VL Gothic;-inkscape-font-specification:VL Gothic"
+       x="201.98436"
+       y="152.58122"
+       id="text3037-1-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="201.98436"
+         y="152.58122"
+         id="tspan3039-9-2"
+         style="text-align:center;text-anchor:middle">ftp or web</tspan><tspan
+         sodipodi:role="line"
+         x="201.98436"
+         y="167.58122"
+         id="tspan3154-6"
+         style="text-align:center;text-anchor:middle">サイト</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:VL Gothic;-inkscape-font-specification:VL Gothic"
+       x="227.74751"
+       y="199.45976"
+       id="text3037-1-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="227.74751"
+         y="199.45976"
+         id="tspan3154-2"
+         style="text-align:center;text-anchor:middle" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:VL Gothic;-inkscape-font-specification:VL Gothic"
+       x="323.4744"
+       y="195.02643"
+       id="text3037-1-8-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="323.4744"
+         y="195.02643"
+         id="tspan3154-6-2"
+         style="text-align:center;text-anchor:middle">パッケージ</tspan><tspan
+         sodipodi:role="line"
+         x="323.4744"
+         y="210.02643"
+         style="text-align:center;text-anchor:middle"
+         id="tspan3273">リポジトリ</tspan></text>
+    <rect
+       style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3275"
+       width="77.50193"
+       height="35.06147"
+       x="284.93341"
+       y="180.23169" />
+    <rect
+       style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3275-4"
+       width="77.50193"
+       height="35.06147"
+       x="163.41339"
+       y="138.40448" />
+    <rect
+       style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3275-4-6"
+       width="77.50193"
+       height="35.06147"
+       x="44.526932"
+       y="99.554199" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend-3-1)"
+       d="m 122.40509,116.80803 81.26416,0 0.75245,20.31605"
+       id="path4143"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend-3-1)"
+       d="m 241.04176,158.90735 81.26416,0 0.75245,20.31604"
+       id="path4143-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <rect
+       style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6, 1;stroke-dashoffset:0"
+       id="rect4413"
+       width="210.68488"
+       height="94.055748"
+       x="36.626247"
+       y="89.719978" />
+    <rect
+       style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6, 1;stroke-dashoffset:0"
+       id="rect4413-1"
+       width="93.303299"
+       height="85.02639"
+       x="276.83093"
+       y="137.50032" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:VL Gothic;-inkscape-font-specification:VL Gothic"
+       x="298.75122"
+       y="48.008682"
+       id="text3037-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="298.75122"
+         y="48.008682"
+         id="tspan4559"
+         style="text-align:start;text-anchor:start">Fedoraプロジェクトにて公開</tspan><tspan
+         sodipodi:role="line"
+         x="298.75122"
+         y="63.008682"
+         style="text-align:start;text-anchor:start"
+         id="tspan7306">* リポジトリの場所はyumdownloaderが知っている。</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:VL Gothic;-inkscape-font-specification:VL Gothic"
+       x="127.74242"
+       y="113.12713"
+       id="text3037-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="127.74242"
+         y="113.12713"
+         id="tspan3039-7">バージョン番号をつけてリリース</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:VL Gothic;-inkscape-font-specification:VL Gothic"
+       x="281.25159"
+       y="155.25211"
+       id="text3037-7-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="281.25159"
+         y="155.25211"
+         id="tspan3039-7-1">取り込み、改変</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 36.117406,16.11412 66.215244,53.018037"
+       id="path4557"
+       inkscape:connector-curvature="0"
+       transform="translate(-30.341443,63.037552)"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4563"
+       width="381.49011"
+       height="30.850285"
+       x="15.557761"
+       y="328.2258" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:VL Gothic;-inkscape-font-specification:VL Gothic"
+       x="205.96082"
+       y="348.15695"
+       id="text3037-1-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="205.96082"
+         y="348.15695"
+         id="tspan3154-0"
+         style="text-align:center;text-anchor:middle">ローカルファイルシステム</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 407.97536,69.424567 361.27829,142.35713"
+       id="path6657"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend-3-1-5)"
+       d="m 233.25825,110.95638 0,151.99408"
+       id="path6659"
+       inkscape:connector-curvature="0"
+       transform="translate(-30.341443,63.037552)"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend-3-1-5)"
+       d="m 83.2779,135.61918 0,190.50957"
+       id="path6659-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend-3-1-5-4)"
+       d="m 355.90694,151.58846 0,111.75076"
+       id="path6916"
+       inkscape:connector-curvature="0"
+       transform="translate(-30.341443,63.037552)"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:VL Gothic;-inkscape-font-specification:VL Gothic"
+       x="15.658442"
+       y="267.94318"
+       id="text3037-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="15.658442"
+         y="267.94318"
+         id="tspan4555-7"
+         style="text-align:center;text-anchor:middle">git, svn, cvsなどの</tspan><tspan
+         sodipodi:role="line"
+         x="15.658442"
+         y="282.94318"
+         style="text-align:center;text-anchor:middle"
+         id="tspan7179">コマンド使って取り出す。</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:VL Gothic;-inkscape-font-specification:VL Gothic"
+       x="207.7457"
+       y="268.31519"
+       id="text3037-6-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="207.7457"
+         y="268.31519"
+         style="text-align:center;text-anchor:middle"
+         id="tspan7179-3">ftp or webクライアントで</tspan><tspan
+         sodipodi:role="line"
+         x="207.7457"
+         y="283.31519"
+         style="text-align:center;text-anchor:middle"
+         id="tspan7207">ダウンロードする。</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:VL Gothic;-inkscape-font-specification:VL Gothic"
+       x="384.06866"
+       y="266.91116"
+       id="text3037-6-7-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="384.06866"
+         y="266.91116"
+         style="text-align:center;text-anchor:middle"
+         id="tspan7207-7">yumdownloaderで</tspan><tspan
+         sodipodi:role="line"
+         x="384.06866"
+         y="281.91116"
+         style="text-align:center;text-anchor:middle"
+         id="tspan7235">ダウンロードする。</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:VL Gothic;-inkscape-font-specification:VL Gothic"
+       x="-72.962273"
+       y="46.600456"
+       id="text3037-5-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="-72.962273"
+         y="46.600456"
+         id="tspan4559-4"
+         style="text-align:start;text-anchor:start">アップストリームプロジェクトにて公開</tspan><tspan
+         sodipodi:role="line"
+         x="-72.962273"
+         y="61.600456"
+         style="text-align:start;text-anchor:start"
+         id="tspan7287">* vcsリポジトリやftp/webサイトの場所はウェブ検索などで探す。</tspan><tspan
+         sodipodi:role="line"
+         x="-72.962273"
+         y="76.600456"
+         style="text-align:start;text-anchor:start"
+         id="tspan7291">* vcsリポジトリを公開していないプロジェクトもある。</tspan><tspan
+         sodipodi:role="line"
+         x="-72.962273"
+         y="91.600456"
+         style="text-align:start;text-anchor:start"
+         id="tspan7289" /></text>
+  </g>
+</svg>

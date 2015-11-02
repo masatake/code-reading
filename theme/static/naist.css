@@ -1,0 +1,11 @@
+/* http://d.hatena.ne.jp/nishiohirokazu/20120602/1338611128 */
+@import url('default.css');
+
+div.body p.caption {
+    text-align: inherit;
+    margin-bottom: 0px;
+}
+
+pre {
+    margin-top: 0px;
+}

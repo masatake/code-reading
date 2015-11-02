@@ -1,0 +1,82 @@
+2015-10-18  Masatake YAMATO  <yamato@redhat.com>
+
+	* tools.rst (エディタからの利用): 追記。
+
+2015-10-16  Masatake YAMATO  <yamato@redhat.com>
+
+	* c.rst (ビット演算): フラッグ操作の&の使い方
+	について間違いを訂正。
+
+	* rapid-reading.rst (関数の形状に基づく重み付け?(bet?)): 追記。
+
+	* lang.svg: C言語を選択することについての図版を追加。
+
+	* タイポ修正。
+
+	* intro.rst (心構え): 追加。
+
+	* reference.rst: Cリファレンスマニュアル 第5版と
+	Linuxプログラミングインターフェイス追加した。
+
+2013-10-04  Masatake YAMATO  <yamato@redhat.com>
+
+	* todo.rst: バイナリの活用を追加した。
+
+2013-09-25  Masatake YAMATO  <yamato@redhat.com>
+
+	* lab3-body.rst: code-block: console
+	でマーキングした。
+
+	* lab1-body.rst: code-block: console
+	でマーキングした。
+
+	* conf.py: Remove string 'naist'.
+
+	* reference.rst (参考文献): 「UNIXネットワークプログラミング」
+	を追記した。
+
+	* lab0-body.rst: ヒントを追記した。
+
+2013-04-18  Masatake YAMATO  <yamato@redhat.com>
+
+	* target.svg: svg的なゴミを除去した。
+
+2013-01-28  Masatake YAMATO  <yamato@redhat.com>
+
+	* buildproc.rst: パッチの説明を追加した。
+
+	* index.rst: questionariesを追加した。
+
+2013-01-23  Masatake YAMATO  <yamato@redhat.com>
+
+	* lab3-body.rst: mkstempがglibcに定義されていることを追記した。
+	(ソースコードの切り出し): ローカル変数pをPとした。
+
+	* lab2-body.rst: ftpの課題を具体化した。
+
+	* todo.rst: ファイルを追加した。
+
+	* tools.rst (文字列リテラル): 固定長文字列について記載した。
+
+2013-01-22  Masatake YAMATO  <yamato@redhat.com>
+
+	* buildproc.rst (ライブラリ): ライブラリについて説明を追加した。
+
+	* buildproc.rst (ビルドツールとビルドスクリプト):
+	内蔵ルールを閲覧する方法を追記した。
+	(rpmbuildとspecファイル): %patch行の説明を追加した。
+
+2013-01-21  Masatake YAMATO  <yamato@redhat.com>
+
+	* lab3-body.rst: 課題をtouchとpingを追加した。
+
+2013-01-17  Masatake YAMATO  <yamato@redhat.com>
+
+	* lab1-body.rst (ソースパッケージより入手): buiyulddep => builddep.
+
+	* lab2-body.rst: 課題を分離した。
+
+	* lab1-body.rst: 重複したstrcmpの課題を削除した。
+
+	* lab1-body.rst: インストール対象にwgetを追記した。
+

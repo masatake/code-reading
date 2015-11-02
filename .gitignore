@@ -1,0 +1,8 @@
+*.pdf
+_build
+_static
+_theme
+Makefile.depends
+header.rst
+japanesesupport.pyc
+maintainer.mk
