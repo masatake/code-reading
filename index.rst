@@ -26,6 +26,7 @@ Contents:
 
    reading
    more-tools
+   ctags-usage
    beforestarting
    buildproc
    lab3
@@ -36,8 +37,8 @@ Contents:
    lab4
 
    pattern-ftable
-    ..   pattern-object
-    ..   lab5
+   ctags-internal
+   lab5
 
    questionaries
    reference
