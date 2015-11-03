@@ -34,7 +34,7 @@
 
         $ su
 	Password: 
-	# yum -y install git rpm-build firefox gcc subversion man-pages wget
+	# yum -y install git rpm-build firefox gcc subversion man-pages wget ctags
 	...
 	Is this ok [y/N]: y
 	...
