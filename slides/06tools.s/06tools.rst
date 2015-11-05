@@ -79,7 +79,7 @@ grepの出力例
 
 .. code-block:: console
 
-    $ grep -n -e '__init' audit.c audit_tree.c audit_watch.c auditfilter.c capability.
+    $ grep -n -e '__init' audit.c audit_tree.c audit_watch.c auditfilter.c capability.c
     audit.c:937:static int __init audit_init(void)
     audit.c:968:__initcall(audit_init);
     audit.c:971:static int __init audit_enable(char *str)
