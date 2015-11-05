@@ -109,7 +109,7 @@ sendmailの最新のリリース版をダウンロードして、展開の後 ~/
 .. code-block:: console
 
 	$ wget ftp://ftp.sendmail.org/pub/sendmail/sendmail.8.14.6.tar.gz
-	$ tar zxvf ftp://ftp.sendmail.org/pub/sendmail/sendmail.8.14.6.tar.gz
+	$ tar zxvf sendmail.8.14.6.tar.gz
         $ mv sendmail-8.14.6 ~/released
 
 ソースパッケージより入手: ソースパッケージリポジトリの設定変更
