@@ -65,7 +65,38 @@ loggerコマンドを使うとコマンドライン経由で/var/log/messagesに
 1. ftpパッケージのソースコードを入手して、~/fedoraディレクトリに配置せよ。
 2. Makefileを調べてftpコマンドを構成するソースコードファイルを特定せよ。
 
-7. straceの活用
+7. Makefileの読解(3)
+------------------------------------------------------------------------
+「演習1: ソースコードの入手」で universal-ctags を ~/upstreamディレクトリ
+にダウンロードしているはずです。
+
+まずこれをビルドしてみましょう。環境によっては、make パッケージと
+autoconfパッケージが追加で必要になるかもしれません。
+
+.. code-block:: console
+
+	$ cd ~/upstram/ctags
+	$ autoreconf -f -i -v
+	$ ./configure
+	$ make
+
+順調に行けば、~/upstram/ctags という実行ファイルが生成されるはずです。
+
+.. code-block:: console
+
+    $ ./ctags --version
+    Universal Ctags Development(7b40b46), Copyright (C) 2015 Universal Ctags Team
+    Universal Ctags is derived from Exuberant Ctags.
+    Exuberant Ctags 5.8, Copyright (C) 1996-2009 Darren Hiebert
+      Compiled: Oct 29 2015, 20:52:17
+      URL: https://ctags.io/
+      Optional compiled features: +wildcards, +regex, +debug, +option-directory, +coproc
+
+
+さて、この出力中 7b40b46 (環境によっては別の文字列かもしれません) はどこから
+やってきたか、ビルドプロセスを調べて コードパスを示して下さい。
+
+8. straceの活用
 ------------------------------------------------------------------------
 
 1. straceの元で/usr/bin/pwdコマンドを実行せよ。
