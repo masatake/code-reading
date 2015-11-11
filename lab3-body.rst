@@ -71,10 +71,11 @@ loggerコマンドを使うとコマンドライン経由で/var/log/messagesに
 にダウンロードしているはずです。
 
 まずこれをビルドしてみましょう。環境によっては、make パッケージと
-autoconfパッケージが追加で必要になるかもしれません。
+autoconfパッケージとautomakeパッケージが追加で必要になるかもしれません。
 
 .. code-block:: console
 
+	# yum -y install autoconf automake
 	$ cd ~/upstram/ctags
 	$ autoreconf -f -i -v
 	$ ./configure
