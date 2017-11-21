@@ -37,8 +37,10 @@ Contents:
    lab4
 
    pattern-ftable
-   ctags-internal
+   sourcetree
    lab5
+
+   ctags-internal
 
    questionaries
    reference
