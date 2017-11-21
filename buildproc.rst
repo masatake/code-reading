@@ -3,7 +3,7 @@
 ビルド処理
 ========================================================================
 
-実行ファイル、ライブラリとソースコードファイルとの関係を :ref:`sourcecode` 
+実行ファイル、ライブラリとソースコードファイルとの関係を :ref:`sourcecode`
 にて説明しました。ただし説明は概念的なものでした。
 ここではビルド処理の中心を担うgccのコマンドラインを具体的に示します。
 またビルドツールの一つであるmakeについて説明します。
@@ -74,7 +74,7 @@ gccはソースコード中にインクルードディレクティブ(``#include
 gccに内蔵されたデフォルトのインクルードパスを確認するには空の.cファイルを
 用意して、そのファイル名とともに-vオプションをつけてgccを呼び出します::
 
-        $ touch baz.c
+	$ touch baz.c
 	$ gcc -v baz.c
 	#include <...> search starts here:
 	 /usr/lib/gcc/x86_64-redhat-linux/4.7.2/include
@@ -111,7 +111,7 @@ gccに内蔵されたデフォルトのインクルードパスを確認する�
 	#include <stdio.h>
 	#define LOG(X) fprintf(stderr, "LOG: %s\n", X)
 	#else
-	#define LOG(X) 
+	#define LOG(X)
 	#endif
 
 	...
@@ -154,7 +154,7 @@ libmy_algorithm.so を my_app にリンクします。
 ``-print-search-dirs`` オプションをつけてgccを呼び出すと、gccに内蔵された
 デフォルトのライブラリパスを確認できます。
 ::
-	
+
 	$ gcc -print-search-dirs
 	...
 	libraries: =/usr/lib/gcc/x86_64-redhat-linux/4.7.2/:...
@@ -200,10 +200,10 @@ nmコマンドを使うとライブラリからエクスポートされている
 
 	$ nm -D /usr/lib/libz.so.1
 	...
-                 U close
+		 U close
 	42681e30 T compress
 	42681d40 T compress2
-                 U free
+		 U free
 	...
 
 Tはエクスポートされている関数を意味します。
@@ -372,17 +372,17 @@ Makefile中で変数を定義、参照することができます。繰り返し
 次に例を示します.
 
 .. code-block:: makefile
-  
+
   DEBUG_FLAGS = -g -DDEBUG=1
   OFLAGS      = -O2
   CFLAGS      = -I. -I../include $(OFLAGS) $(DEBUG_FLAGS)
 
   myapp: foo.o bar.o
-        gcc -o myapp foo.o bar.o
+	gcc -o myapp foo.o bar.o
   foo.o: foo.c
-  	gcc -c $(CFLAGS) foo.c  
+	gcc -c $(CFLAGS) foo.c
   bar.o: bar.c
-  	gcc -c $(CFLAGS) bar.c  
+	gcc -c $(CFLAGS) bar.c
 
 変数の値はmakeコマンドを呼び出すコマンドラインから指定することもできます::
 
@@ -408,13 +408,13 @@ makeコマンド自体がcコンパイラを呼び出して.cから.oを得る�
 内蔵ルールを利用した例
 
 .. code-block:: makefile
-  
+
   DEBUG_FLAGS = -g -DDEBUG=1
   OFLAGS      = -O2
   CFLAGS      = -I. -I../include $(OFLAGS) $(DEBUG_FLAGS)
 
   myapp: foo.o bar.o
-        gcc -o myapp foo.o bar.o
+	gcc -o myapp foo.o bar.o
 
 内蔵ルールの閲覧
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -432,7 +432,7 @@ makeコマンド自体がcコンパイラを呼び出して.cから.oを得る�
     OUTPUT_OPTION = -o $@
     COMPILE.c = $(CC) $(CFLAGS) $(CPPFLAGS) $(TARGET_ARCH) -c
     .c.o:
-     	$(COMPILE.c) $(OUTPUT_OPTION) $<
+	$(COMPILE.c) $(OUTPUT_OPTION) $<
 
 rpmbuildとspecファイル
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -443,11 +443,11 @@ rpmbuildとspecファイル
 rpmbuild のオプションとして -bp を指定してソースコードツリーを合成しま
 した。バイナリパッケージを作成するには、-bp のかわりに -bb を指定します::
 
-	$ rpmbuild -bb ~/rpmbuild/SPECS/coreutils.spec 
-        ...
+	$ rpmbuild -bb ~/rpmbuild/SPECS/coreutils.spec
+	...
 
 
-バイナリパッケージは、~/rpmbuild/RPMS/x86_64/coreutils-8.15-7.fc17.x86_64.rpm 
+バイナリパッケージは、~/rpmbuild/RPMS/x86_64/coreutils-8.15-7.fc17.x86_64.rpm
 といった名前で生成されているはずです。出力を見てバイナリパッケージ作成の過程で
 makeやgccが呼び出されていることを確認して下さい。
 
@@ -489,7 +489,7 @@ coreutils.specからBuildRequiresを指定した行を抜粋しました。
 行頭%ではじまる行で、specファイルは理論的に分割されています。分割された
 各範囲をセクションと呼びます。ソースコードツリーを合成するのに使った-bpオプション
 を指定してrpmbuildを実行すると %prepセクション に記載された内容までを実行します。
-バイナリパッケージの作成に使った -bb オプションを指定してrpmbuildを実行すると 
+バイナリパッケージの作成に使った -bb オプションを指定してrpmbuildを実行すると
 %prepセクションに加えて%buildセクションに記載された内容までが実行されます。
 以下にcoreutils.specの%prepセクションと%buildセクションを抜粋します。
 
@@ -645,7 +645,7 @@ x.c(オリジナルファイル)を編集更新してy.c(更新ファイル)を�
 
 .. この図版では、
 
-.. 	ツール名(入力ファイル名)
+..	ツール名(入力ファイル名)
 
 .. を要素として、要素間を矢印で接続しています。矢印の根本にツール名を記載
 .. し、矢印の先にそのツールが生成するファイルを記載しています。点線で囲ん

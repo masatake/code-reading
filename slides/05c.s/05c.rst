@@ -27,7 +27,7 @@ C言語復習
 .. code-block:: c
 
 	foo (); /* 関数呼び出し */
-  
+
 このコードを発見するのに例えば
 
 ::
@@ -49,8 +49,8 @@ C言語復習
 
 .. code-block:: c
 
-	if (a == b) 
-          {
+	if (a == b)
+	  {
 	    do_something();
 	  }
 	else
@@ -68,21 +68,21 @@ C言語復習
 	} else {
 		rest();
 	}
-	
+
 
 例3
 
 .. code-block:: c
 
-	if ( a == b ) 
-        {
+	if ( a == b )
+	{
 		do_something();
-	} 
-        else 
-        {
+	}
+	else
+	{
 		rest();
 	}
-	
+
 
 
 文字列定数の連結
@@ -165,7 +165,7 @@ cpp
       inc##A (void) { A++; }
 
     def_inc(x)  /* incx, incy関数が定義される。*/
-    def_inc(y)  
+    def_inc(y)
 
     int main(void)
     {
@@ -194,7 +194,7 @@ cpp
 
     $ gcc /tmp/foo.c
 
-    $ ./a.out 
+    $ ./a.out
 
     $ echo $?
     3
@@ -215,7 +215,7 @@ cpp
 
     /* /tmp/bar.c, taken from ui/gtk/prefs_dlg.c of wireshark */
     #include <stdio.h>
-    
+
     typedef enum pref_type {
       PREF_UINT,
       PREF_BOOL,
@@ -226,7 +226,7 @@ cpp
       PREF_UAT,
       PREF_OBSOLETE,
     } pref_type_t;
-    
+
     static const char*
     get_pref_type_string(pref_type_t t)
     {
@@ -245,7 +245,7 @@ cpp
 	  return "UNKNOWN";
 	}
     }
-    
+
     int
     main(int argc)
     {
@@ -259,8 +259,8 @@ cpp
 
     $ gcc /tmp/bar.c
     gcc /tmp/bar.c
-    $ ./a.out 
-    ./a.out 
+    $ ./a.out
+    ./a.out
     =>BOOL
     $ ./a.out a
     ./a.out a
@@ -293,7 +293,7 @@ get_pref_type_string 関数だけを抜粋してマクロ展開
 	  return "UNKNOWN";
 	}
     }
-    
+
 goto文
 -----------------------------------------------------------------------
 * 使用は推奨されていないが、現実には使われている。
@@ -321,7 +321,7 @@ goto文
 	    return -ENOMEM;
     }
 
-  
+
     /* Taken from
        linux-2.6.32-131.0.15.fc13.x86_64/net/core/dev.c */
 
@@ -384,13 +384,13 @@ returnの値、if/whileなどの条件を記述する箇所で良く使われる
 
 .. code-block:: c
 
-	enum { 
+	enum {
 		FLAG_X  = 1 << 0,        /* 0番目のビット */
 		FLAG_Y  = 1 << 1,        /* 1番目のビット */
 		...
 		FLAG_Z  = 1 << n,        /* n番目のビット */
 		FLAG_0N = FLAG_X|FLAG_Z, /* 0番目とn番目のビット */
-        };
+	};
 
 ビット演算を用いたフラッグ操作
 -----------------------------------------------------------------------
@@ -422,7 +422,7 @@ returnの値、if/whileなどの条件を記述する箇所で良く使われる
 		...
 	}
 
- 
+
 ビット演算を用いたフラッグ操作
 -----------------------------------------------------------------------
 フラッグを上げる。
@@ -458,7 +458,7 @@ returnの値、if/whileなどの条件を記述する箇所で良く使われる
 
 .. code-block:: c
 
-	b = !!var 
+	b = !!var
 
 
 これは、
@@ -473,7 +473,7 @@ returnの値、if/whileなどの条件を記述する箇所で良く使われる
 -----------------------------------------------------------------------
 * 変数名や関数名が参照されうる範囲のことをスコープと言う。
 * C言語には、狭い順に3種類のスコープがある。
-  
+
   - 文内
   - .cファイル内
   - プログラム全域
@@ -513,7 +513,7 @@ returnの値、if/whileなどの条件を記述する箇所で良く使われる
 	int foo(int o)
 	{
 		int p;
-		... 		/* o, pが参照可能 */
+		...		/* o, pが参照可能 */
 		{
 			int q;
 			...     /* o, p, qが参照可能 */
@@ -556,7 +556,7 @@ returnの値、if/whileなどの条件を記述する箇所で良く使われる
    /* ここトップレベル */
    void foo(void)
    {
-   	/* ここはトップレベルではない */
+	/* ここはトップレベルではない */
    }
 
    /* ここトップレベル */
@@ -624,12 +624,12 @@ returnの値、if/whileなどの条件を記述する箇所で良く使われる
 
 	void func(int * p)
 	{
-		pointer = p;		
+		pointer = p;
 	}
 
 .. code-block:: c
 
-        /* foo.c */
+	/* foo.c */
 	#include "bar.h"
 	static int file_private;
 
