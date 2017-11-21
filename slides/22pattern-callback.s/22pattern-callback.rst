@@ -69,7 +69,7 @@ qsortはbaseで指定された配列の要素を並びかえる。並び換え�
 		int B = *(int *)b;
 
 		if (A == B) return 0;
-		elif (A < B) return 1;
+		else if (A < B) return 1;
 		else return -1;
 	}
 	
