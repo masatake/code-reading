@@ -25,7 +25,7 @@ glibcソースパッケージの入手、展開、合成、配置
 	$ cd /tmp
 	$ yumdownloader --source glibc
 	# su 
-	# yum-buiyulddep glibc*.src.rpm
+	# yum-builddep glibc*.src.rpm
 	...
 	Is this ok [y/N]: y
 	...
